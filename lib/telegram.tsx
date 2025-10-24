@@ -18,8 +18,8 @@
  *    - Find "chat":{"id": YOUR_CHAT_ID} in the response
  *
  * 3. Set Environment Variables in Vercel:
- *    - TELEGRAM_BOT_TOKEN="8377360269:AAFp9q_aQ-W1lYzknvyg0tMK6Dv8joMy34A"
- *    - TELEGRAM_CHAT_ID="6629577683"
+ *    - TELEGRAM_BOT_TOKEN= "8377360269:AAFp9q_aQ-W1lYzknvyg0tMK6Dv8joMy34A"
+ *    - TELEGRAM_CHAT_ID= "6629577683"
  *
  * TO CHANGE BOT OR CHAT:
  * - Simply update the environment variables in your Vercel project settings
